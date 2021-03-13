@@ -1,9 +1,11 @@
 # father
 > 万能网页控制台
 
+在线体验：https://father.cool
+
 ## Project setup
 ```
-yarn install
+yarn installs
 ```
 
 ### Compiles and hot-reloads for development
