@@ -1,0 +1,17 @@
+.margin-16 {
+    margin-bottom: 16px;
+}
+
+.ant-upload {
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.bee-fk-colorPicker {
+    position: absolute;
+    z-index: 10000;
+}
+
+.data-popper-arrow {
+    z-index: 10000;
+}
