@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://father.cool">
-    <img width="200" src="./assets/logo.png">
+    <img width="120" src="./assets/logo.png">
   </a>
 </p>
 
