@@ -1,6 +1,6 @@
 <template>
   <div id="baseLayout">
-    <a-layout class="layout" style="height:100vh">
+    <a-layout class="layout" style="min-height:100vh">
       <a-layout-header class="header">
         <a-row type="flex">
           <a-col flex="180px" class="margin">
