@@ -34,10 +34,9 @@
 
 > 新用户是指在阿里云没有花过一块钱以上（如果以前已经注册过了，但是没花过钱，只参与活动领取了免费服务器，也算新用户）
 
-QQ 群：755856381（或用 QQ 扫描下方二维码）
+QQ 群：938627626（或用 QQ 扫描下方二维码）
 
-​                 ![](https://qiniuyun.code-nav.cn/MuVk1RMzu6eeMjljZg5Rqw.png)        
-
+* ![](https://user-images.githubusercontent.com/26037703/138561500-adf8a413-7a69-42ea-9e40-79fd0c834087.png)
 
 
 ## ✨ 特性
